@@ -1,6 +1,6 @@
 ---
-title: "My First Blog"
-date: 24, August, 2021
+title: My First Blog 2023
+date: June 21, 2021 12:00 AM
 ---
 
 # Welcome to my blog
